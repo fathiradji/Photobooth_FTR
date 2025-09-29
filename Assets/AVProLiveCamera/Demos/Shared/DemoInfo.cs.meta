@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93971dd2c54fc5a46adae88ce8a1c7dd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3683
+  packageName: AVPro Live Camera
+  packageVersion: 2.9.3
+  assetPath: Assets/AVProLiveCamera/Demos/Shared/DemoInfo.cs
+  uploadId: 533794
